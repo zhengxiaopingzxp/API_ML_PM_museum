@@ -21,7 +21,7 @@
 > 为残障人士规划和推荐最佳的路线。避免因为拥堵而造成的不便。
 
 - 该产品调用语音合成API的价值在于：
-> 为残障人士进行物品介绍进行语音播报，避免因解说文字离的太远而无法尽情的浏览的烦恼。 
+> 为残障人士进行物品介绍进行语音播报，避免因解说文字的距离和高度问题而无法尽情的浏览的烦恼。而且有明确的指导，能快速且准确的到达解决身心需求的区域
 
 - 该产品调用百度API的价值在于：
 > 除为残障人士提供智能的游览线路外，还需要提供休息、饮食、洗手间等解决生理需求的区域的导航，减少残障人士因为身体原因以及对展区不熟悉带来的不方便。
@@ -126,6 +126,49 @@
 ### [原型下载的地址](https://gitee.com/NFUNM104/API_Graduation)
 
 ## API的输出入展示
+
+<h3 id="chapter18">一、API输入与输出</h3>
+
+## API的输出入展示
+
+<h3 id="chapter18">一、API输入与输出</h3>
+
+- 人流量统计api：
+> 为残障人士规划和推荐最佳的路线。避免因为拥堵而造成的不便。
+##### [详细代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_museum/blob/master/tongji.ipynb)
+
+该产品调用语音合成API的价值在于：
+> 为残障人士进行物品介绍进行语音播报，避免因解说文字的距离和高度问题而无法尽情的浏览的烦恼。而且有明确的指导，能快速且准确的到达解决身心需求的区域
+##### [详细代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
+
+<h3 id="chapter19">二、API1.使用水平</h3>
+
+- 输入：现在拍照；输出：大头贴选择
+- 输入：本地照片；输出：大头贴选择和编辑
+- 输入：故事；输出：详细信息，比如位置、详细说明等
+
+##### [所有代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
+
+<h3 id="chapter20">四、API3.使用后风险报告</h3>
+
+> 百度的地标识别api:
+- 有的人所处之地太偏僻，有时候识别不出他（她）的位置。
+> 腾讯云的大头贴api：
+- 大头贴的样式不是很多，难以满足用户需求。
+
+
+<h3 id="chapter22">五、API4.加分项</h3>
+
+- 用到的的api有地标识别api、大头贴拍照api、百度地图api
+- [所有代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
+
+<h3 id="chapter22">五、API5.最小完成项目</h3>
+
+- 地标识别：
+![地标识别.png](https://upload-images.jianshu.io/upload_images/7563229-f6832fc51538093f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 
 ## 最小完成项
 - 人流量统计
