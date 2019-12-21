@@ -112,19 +112,19 @@
 ## 原型设计
 <h3 id="chapter13">一、产品架构图</h3>
 
-![产品架构图](img/kuang.png)
+![产品架构图](img/kuangjia.png)
 
 <h3 id="chapter14">二、产品流程图</h3>
 
-![产品流程图](img/liu.png)
+![产品流程图](img/liucheng.png)
 
 <h3 id="chapter15">四、Axure原型文档交互展示</h3>
 
-### [原型1.交互及界面设计](http://nfunm104.gitee.io/api_graduation)
-### [原型2.信息设计](http://nfunm104.gitee.io/api_graduation)
+### [原型1.交互及界面设计](http://nfunm104.gitee.io/api_museum)
+### [原型2.信息设计](http://nfunm104.gitee.io/api_museum)
 ### 产品原型
-### [原型3.原型文档](http://nfunm104.gitee.io/api_graduation)
-### [原型下载的地址](https://gitee.com/NFUNM104/API_Graduation)
+### [原型3.原型文档](http://nfunm104.gitee.io/api_museum)
+### [原型下载的地址](https://gitee.com/NFUNM104/API_museum)
 
 ## API的输出入展示
 
